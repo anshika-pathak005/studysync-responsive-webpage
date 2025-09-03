@@ -24,7 +24,7 @@ Simply open `index.html` in any modern browser — everything works offline!
 ## 🎥 Project Demo — Responsive Design in Action
 
 <h3>💻 Desktop View</h3>
-<img src="./assets/studySync1-desktop.gif" alt="Desktop Demo" width="700">
+<img src="./assets/studySync1.gif" alt="Desktop Demo" width="700">
 
 <h3>📱 Mobile / Tablet View</h3>
 <img src="./assets/studySync2.gif" alt="Mobile Demo" width="300">
