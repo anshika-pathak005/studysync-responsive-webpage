@@ -23,12 +23,11 @@ Simply open `index.html` in any modern browser — everything works offline!
 
 ## 🎥 Project Demo — Responsive Design in Action
 
-### 💻 Desktop View
-![Desktop Demo](./assets/studySync1.gif)
+<h3>💻 Desktop View</h3>
+<img src="./assets/studySync1-desktop.gif" alt="Desktop Demo" width="700">
 
-### 📱 Mobile / Tablet View
-![Mobile Demo](./assets/studySync2.gif)
-
+<h3>📱 Mobile / Tablet View</h3>
+<img src="./assets/studySync2.gif" alt="Mobile Demo" width="300">
 
 ## Project Structure 📂  
 ```
