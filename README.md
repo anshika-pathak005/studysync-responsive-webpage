@@ -20,25 +20,23 @@ This was the project where I first started seeing web development differently �
 
 ## Usage  
 Simply open `index.html` in any modern browser — everything works offline!  
-*(I’ll host it soon so you can check it out online too!)*  
+
+## 🎥 Project Demo — Responsive Design in Action
+
+### 💻 Desktop View
+![Desktop Demo](./assets/studySync1.gif)
+
+### 📱 Mobile / Tablet View
+![Mobile Demo](./assets/studySync2.gif)
+
 
 ## Project Structure 📂  
 ```
-
-StudySync/
+studysync-responsive-webpage/
 │
 ├── index.html        # Main HTML file (webpage structure)
 ├── style.css         # Styling (responsive design, animations, layout)
 ├── images/           # All images, logos, and icons used in the project
-│   ├── StudySyn.svg
-│   ├── Google.svg
-│   ├── Microsoft.svg
-│   ├── linkedin.svg
-│   ├── avatar1.png
-│   ├── avatar2 (1).png
-│   ├── avatar3.png
-│   ├── usgs-hoS3dzgpHzw-unsplash.jpg
-│   └── ...
+├── assets/           # Demo Videos
 └── README.md         # Project documentation (this file)
-
 ```
