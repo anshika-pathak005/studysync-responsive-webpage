@@ -3,6 +3,7 @@
 This is the first fully responsive webpage I ever built — and it’s special to me! 🎉  
 I followed Love Babbar sir’s web dev playlist while creating it, and it really helped me understand how HTML and CSS work together to make real websites.  
 This was the project where I first started seeing web development differently — not just as code, but as something beautiful that people interact with. I was honestly so happy while making this!  
+### 🔗 [Live Demo](https://studysync-responsive-webpage.vercel.app/)
 
 ## What I Learned 🧠  
 - Structuring a webpage with semantic HTML.  
